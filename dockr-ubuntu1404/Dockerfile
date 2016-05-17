@@ -1,7 +1,7 @@
 FROM ubuntu:14.04
 
-## This handle reaches Carl and Dirk
-MAINTAINER "Carl Boettiger and Dirk Eddelbuettel" rocker-maintainers@eddelbuettel.com
+## This handle reaches xavier
+MAINTAINER "xavier" pourriels.xfm@gmail.com
 
 ## Set a default user. Available via runtime flag `--user docker` 
 ## Add user to 'staff' group, granting them write privileges to /usr/local/lib/R/site.library
